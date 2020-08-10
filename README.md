@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=han88829&show_icons=true&theme=radical)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=han88829&show_icons=true&theme=radical)
  
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
